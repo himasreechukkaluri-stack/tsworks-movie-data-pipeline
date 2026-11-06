@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+movie_database.db
+data/api_cache.json
