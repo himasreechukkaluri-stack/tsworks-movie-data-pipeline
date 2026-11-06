@@ -54,7 +54,7 @@ movie-data-pipeline/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git git clone https://github.com/himasreechukkaluri-stack/tsworks-movie-data-pipeline.git
 cd movie-data-pipeline
 ```
 
